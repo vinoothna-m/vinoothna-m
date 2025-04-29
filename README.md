@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm VINOOTHNA MADITHATI
 
-<!--
-**vinoothna-m/vinoothna-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Graduate  
+💻 Aspiring Software Engineer | Full-Stack Developer  
+🚀 Passionate about building real-world applications with Python, Django, JavaScript, and SQL  
+🌱 Currently learning: React & RESTful APIs  
+📫 How to reach me: vinoothnamadithati@gmail.com | www.linkedin.com/in/vinoothna-madithati  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C, JavaScript, HTML, CSS, SQL  
+- **Frameworks:** Django, Bootstrap  
+- **Tools:** Git, GitHub, MySQL, VS Code  
+- **Currently Learning:** React, REST APIs
+
+---
+
+### 📌 Featured Projects
+
+#### 🅿️ Django-Based Automated Parking System  
+- Full-stack web app using Django, HTML/CSS, and SQL  
+- Features: real-time parking availability, admin login, database management  
+- [🔗 GitHub Repo](https://github.com/vinoothna-/parking-system)  
+
+
+
+
+
+
