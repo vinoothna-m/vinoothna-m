@@ -33,6 +33,7 @@
 A real-time weather app using OpenWeatherMap API. Users can search any city and get current conditions, forecasts, and weather icons.
 
 **Tech:** HTML, CSS, JavaScript, OpenWeatherMap API
+
 -[🔗 GitHub Repo](https://github.com/vinoothna-m/weather-app)
 ---
 
@@ -41,6 +42,7 @@ A real-time weather app using OpenWeatherMap API. Users can search any city and 
 A Django-based smart parking system to automate vehicle entry, slot booking, and availability tracking.
 
 **Tech:** Django, Python, SQLite, HTML, CSS
+
 -[🔗 GitHub Repo](https://github.com/vinoothna-m/automated-parking-system)
 ---
 
@@ -49,6 +51,7 @@ A Django-based smart parking system to automate vehicle entry, slot booking, and
 My personal portfolio website to showcase my skills, projects, and contact info. Fully responsive with a modern UI.
 
 **Tech:** HTML, CSS, JavaScript, Bootstrap
+
 -[🔗 GitHub Repo](https://github.com/vinoothna-m/portfolio-website)
 ---
 
