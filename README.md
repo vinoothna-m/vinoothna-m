@@ -62,6 +62,14 @@ A multi-model machine learning system for detecting hate speech in text using NL
 [🔗 GitHub Repo](https://github.com/vinoothna-m/hate-speech-recognition)
 
 
+---
+
+### DSA Problems
+Collection of all dsa solved problems in different techniques of python
+
+**Tech:** Python, Data structures and algorithms
+
+
 
 
 
