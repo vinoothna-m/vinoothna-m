@@ -12,7 +12,7 @@
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS, SQL  
 - **Frameworks:** Django, Bootstrap  
 - **Tools:** Git, GitHub, MySQL, VS Code  
-- **Currently Learning:** React, REST APIs
+- **Currently Learning:** DSA, React, REST APIs
 
 ---
 
