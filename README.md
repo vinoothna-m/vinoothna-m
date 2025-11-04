@@ -24,16 +24,16 @@
 -A responsive front-end clone of Netflix built with React.js and TMDb API. Features include real-time data fetching, movie trailers, and a sleek UI.
 
 -**Tech:** React, Axios, TMDb API, CSS
-[🔗 GitHub Repo](https://github.com/vinoothna-m/netflix-clone)
+[🔗 GitHub Repo](https://github.com/vinoothna-m/my-net-series)
 
 ---
 
-### 🌤️ Weather App
+### 🌤️ Weather Status
 
 A real-time weather app using OpenWeatherMap API. Users can search any city and get current conditions, forecasts, and weather icons.
 
 **Tech:** HTML, CSS, JavaScript, OpenWeatherMap API
-[🔗 GitHub Repo](https://github.com/vinoothna-m/weather-app)
+[🔗 GitHub Repo](https://github.com/vinoothna-m/weather-status)
 
 ---
 
