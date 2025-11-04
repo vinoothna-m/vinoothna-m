@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix Clone
+### 🎬 My-Net-Series
 
 -A responsive front-end clone of Netflix built with React.js and TMDb API. Features include real-time data fetching, movie trailers, and a sleek UI.
 
